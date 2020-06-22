@@ -1,872 +1,836 @@
 [
     {
-        "FULL NAME": "Abiola Titus",
-        "USERNAME": "@Abiola",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Abiola Titus",
+        "userName": "@Abiola",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Adewusi Bob",
-        "USERNAME": "@Bobaddey",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Adewusi Bob",
+        "userName": "@Bobaddey",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Adim Ekene Micheal",
-        "USERNAME": "@michealadim",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Adim Ekene Micheal",
+        "userName": "@michealadim",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Adio Mojeed",
-        "USERNAME": "@codeLeaf",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Adio Mojeed",
+        "userName": "@codeLeaf",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Akinsanya Adetayo",
-        "USERNAME": "@CluelessDev",
-        "EMAIL": "",
-        "TOTAL POINTS": 2
+        "fullName": "Akinsanya Adetayo",
+        "userName": "@CluelessDev",
+        "email": "",
+        "totalPoints": 2
     },
     {
-        "FULL NAME": "Alkaseem Abubakar",
-        "USERNAME": "@Alkaseem",
-        "EMAIL": "",
-        "TOTAL POINTS": 12
+        "fullName": "Alkaseem Abubakar",
+        "userName": "@Alkaseem",
+        "email": "",
+        "totalPoints": 12
     },
     {
-        "FULL NAME": "Apetu Ezekiel",
-        "USERNAME": "@Ezekiel",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Ashgan mustafa",
+        "userName": "@Ashgan",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Ashgan mustafa",
-        "USERNAME": "@Ashgan",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Ayandele Oluwakamiye Mary",
+        "userName": "@oluwakamiye",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Ayandele Oluwakamiye Mary",
-        "USERNAME": "@oluwakamiye",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Callistus Enekhaze",
+        "userName": "@Osi",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Callistus Enekhaze",
-        "USERNAME": "@Osi",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Chihurumnanya Nwanevu",
+        "userName": "@cnndev",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Chihurumnanya Nwanevu",
-        "USERNAME": "@cnndev",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Chuckwuemeka Aladimma",
+        "userName": "@Acel",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Chuckwuemeka Aladimma",
-        "USERNAME": "@Acel",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "David Ogunniran",
+        "userName": "@touch-dev",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "David Ogunniran",
-        "USERNAME": "@touch-dev",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Ebele Andeh",
+        "userName": "",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Ebele Andeh",
-        "USERNAME": "",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Ejiroghene Obiuwevbi",
+        "userName": "@Ejiroghene",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Ejiroghene Obiuwevbi",
-        "USERNAME": "@Ejiroghene",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Erem Amarachi Winner",
+        "userName": "@wiamer",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Erem Amarachi Winner",
-        "USERNAME": "@wiamer",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Eyawo Okiemute Scott",
+        "userName": "@babscode",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Eyawo Okiemute Scott",
-        "USERNAME": "@babscode",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Favour Oluwamifemi",
+        "userName": "@Neefemee1",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Favour Oluwamifemi",
-        "USERNAME": "@Neefemee1",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Francis Franel Michael",
+        "userName": "@Franel",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Francis Franel Michael",
-        "USERNAME": "@Franel",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Gift Chukwunweike",
+        "userName": "@Gift_",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Gift Chukwunweike",
-        "USERNAME": "@Gift_",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Hezekiah Feyisayo",
+        "userName": "@HezekiahFeyisayo",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Hezekiah Feyisayo",
-        "USERNAME": "@HezekiahFeyisayo",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Ibrahim Saliman Zainab",
+        "userName": "@Zeeson",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Ibrahim Saliman Zainab",
-        "USERNAME": "@Zeeson",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Ibukunoluwa Popoola",
+        "userName": "@Gbolade",
+        "email": "",
+        "totalPoints": 2
     },
     {
-        "FULL NAME": "Ibukunoluwa Popoola",
-        "USERNAME": "@Gbolade",
-        "EMAIL": "",
-        "TOTAL POINTS": 2
+        "fullName": "Ifeanyi Muogbo",
+        "userName": "@ifeanyi_md",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Ifeanyi Muogbo",
-        "USERNAME": "@ifeanyi_md",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Ifeanyi Okwuobi",
+        "userName": "@Chie7tain",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Ifeanyi Okwuobi",
-        "USERNAME": "@Chie7tain",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Jayasree",
+        "userName": "@Jayasree",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Jayasree",
-        "USERNAME": "@Jayasree",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Jegede David",
+        "userName": "@Jegede David",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Jegede David",
-        "USERNAME": "@Jegede David",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Kola-Adelakin Inioluwa",
+        "userName": "@Inioluwa",
+        "email": "",
+        "totalPoints": 2
     },
     {
-        "FULL NAME": "Kola-Adelakin Inioluwa",
-        "USERNAME": "@Inioluwa",
-        "EMAIL": "",
-        "TOTAL POINTS": 2
+        "fullName": "Kolade Victor",
+        "userName": "@shola",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Kolade Victor",
-        "USERNAME": "@shola",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Lawal Toheeb",
+        "userName": "@Gentle",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Lawal Toheeb",
-        "USERNAME": "@Gentle",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Makinde Tolu Michael",
+        "userName": "@TeeMark",
+        "email": "",
+        "totalPoints": 8
     },
     {
-        "FULL NAME": "Makinde Tolu Michael",
-        "USERNAME": "@TeeMark",
-        "EMAIL": "",
-        "TOTAL POINTS": 8
+        "fullName": "MingyangSUN",
+        "userName": "@Rayna",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "MingyangSUN",
-        "USERNAME": "@Rayna",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Miracle Ogunleye",
+        "userName": "@Mimi",
+        "email": "",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "Miracle Ogunleye",
-        "USERNAME": "@Mimi",
-        "EMAIL": "",
-        "TOTAL POINTS": 4
+        "fullName": "Mmonim Ukpanah",
+        "userName": "@Mmonim",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Mmonim Ukpanah",
-        "USERNAME": "@Mmonim",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Moses",
+        "userName": "@mosesjayz",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Moses",
-        "USERNAME": "@mosesjayz",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Mujeeb Abdulfatai",
+        "userName": "@Mujeeb",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Mujeeb Abdulfatai",
-        "USERNAME": "@Mujeeb",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Nenlep Ishaku",
+        "userName": "@Nenlep",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Nenlep Ishaku",
-        "USERNAME": "@Nenlep",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Nomuoja Maro",
+        "userName": "@gosteve",
+        "email": "",
+        "totalPoints": 12
     },
     {
-        "FULL NAME": "Nomuoja Maro",
-        "USERNAME": "@gosteve",
-        "EMAIL": "",
-        "TOTAL POINTS": 12
+        "fullName": "Obu Chigozie",
+        "userName": "@Gozie",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Obu Chigozie",
-        "USERNAME": "@Gozie",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Odiri",
+        "userName": "@Odizee",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Odiri",
-        "USERNAME": "@Odizee",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Oduro Twumasi John Barnes",
+        "userName": "@Barnes",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Oduro Twumasi John Barnes",
-        "USERNAME": "@Barnes",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Okpala Agbidi Chidi",
+        "userName": "@Chidi",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Okpala Agbidi Chidi",
-        "USERNAME": "@Chidi",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Olatunde Obitoye",
+        "userName": "@IbitoyeO",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Olatunde Obitoye",
-        "USERNAME": "@IbitoyeO",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Olayiwola ololade",
+        "userName": "@lolade",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Olayiwola ololade",
-        "USERNAME": "@lolade",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Onah Tochkwu",
+        "userName": "@tchytech",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Onah Tochkwu",
-        "USERNAME": "@tchytech",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Orji Cecilia",
+        "userName": "@vivcis",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Orji Cecilia",
-        "USERNAME": "@vivcis",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Precious Ngwube",
+        "userName": "@Prewsh",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Precious Ngwube",
-        "USERNAME": "@Prewsh",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Razeb Enyi",
+        "userName": "@Razeb",
+        "email": "",
+        "totalPoints": 12
     },
     {
-        "FULL NAME": "Razeb Enyi",
-        "USERNAME": "@Razeb",
-        "EMAIL": "",
-        "TOTAL POINTS": 12
+        "fullName": "Ridwan Ajanaku",
+        "userName": "@Lakes",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Ridwan Ajanaku",
-        "USERNAME": "@Lakes",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Samuel Onyijne",
+        "userName": "@onyijne",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Samuel Onyijne",
-        "USERNAME": "@onyijne",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Sogbesan Teni",
+        "userName": "@azeezat",
+        "email": "",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "Sogbesan Teni",
-        "USERNAME": "@azeezat",
-        "EMAIL": "",
-        "TOTAL POINTS": 6
+        "fullName": "Thomas Rita",
+        "userName": "@TR",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Thomas Rita",
-        "USERNAME": "@TR",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Uloma Chibueze-ocheoha",
+        "userName": "@Uloma",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Uloma Chibueze-ocheoha",
-        "USERNAME": "@Uloma",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "Uzosike Lynda",
+        "userName": "@Adachi",
+        "email": "",
+        "totalPoints": 5
     },
     {
-        "FULL NAME": "Uzosike Lynda",
-        "USERNAME": "@Adachi",
-        "EMAIL": "",
-        "TOTAL POINTS": 5
+        "fullName": "Victor Akanmidu",
+        "userName": "@devmajor",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "Victor Akanmidu",
-        "USERNAME": "@devmajor",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@cummings",
+        "email": "princesskcummings@yahoo.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@cummings",
-        "EMAIL": "princesskcummings@yahoo.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Ayodeji305",
+        "email": "ayodejiolagbaiye@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Ayodeji305",
-        "EMAIL": "ayodejiolagbaiye@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@boomshaq",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@blackman",
-        "EMAIL": "olarewajufakomi@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@coates",
+        "email": "petercoates007@yahoo.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@boomshaq",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@edward",
+        "email": "phemmy.phemo@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@coates",
-        "EMAIL": "petercoates007@yahoo.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@ifeyinwa",
+        "email": "ifyigwe8@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@edward",
-        "EMAIL": "phemmy.phemo@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@isy",
+        "email": "ugbahisioma@icloud.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@ifeyinwa",
-        "EMAIL": "ifyigwe8@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Oluwapelumi20",
+        "email": "painabadejo@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@isy",
-        "EMAIL": "ugbahisioma@icloud.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@abdy",
+        "email": "abdymovicxi@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Oluwapelumi20",
-        "EMAIL": "painabadejo@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Oscino",
+        "email": "atuonwukelvin@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@abdy",
-        "EMAIL": "abdymovicxi@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@ebiowei",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Oscino",
-        "EMAIL": "atuonwukelvin@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Dera-O",
+        "email": "chideraokemeziem@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@ebiowei",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@faydee",
+        "email": "faidatakinwale@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Dera-O",
-        "EMAIL": "chideraokemeziem@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@coreyodonis",
+        "email": "qorede@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@faydee",
-        "EMAIL": "faidatakinwale@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@zurikss",
+        "email": "victorander18@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@coreyodonis",
-        "EMAIL": "qorede@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@mistajide",
+        "email": "jimohhabeeb@hotmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Dikamsi",
-        "EMAIL": "youngudochi15@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Groot",
+        "email": "wisdomavalanche@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@zurikss",
-        "EMAIL": "victorander18@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@Dee 03",
+        "email": "damilolaolaribigbe3@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@mistajide",
-        "EMAIL": "jimohhabeeb@hotmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@maebasmrt",
+        "email": "maebasmart@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Groot",
-        "EMAIL": "wisdomavalanche@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@thecodeddesigner",
+        "email": "",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Dee 03",
-        "EMAIL": "damilolaolaribigbe3@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@BioChris",
+        "email": "biochris43@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@maebasmrt",
-        "EMAIL": "maebasmart@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Miebaka",
+        "email": "miebakakiki@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@thecodeddesigner",
-        "EMAIL": "",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@smute",
+        "email": "akinnibosun50@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@BioChris",
-        "EMAIL": "biochris43@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@darasimi",
+        "email": "okanlawondara@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Miebaka",
-        "EMAIL": "miebakakiki@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Eternity",
+        "email": "isaacadariku05@gmail.com",
+        "totalPoints": 18
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@smute",
-        "EMAIL": "akinnibosun50@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Ufe",
+        "email": "ufedojoatabo@gmail.com",
+        "totalPoints": 12
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@darasimi",
-        "EMAIL": "okanlawondara@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Becca",
+        "email": "beccasaka@gmail.com",
+        "totalPoints": 9
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Eternity",
-        "EMAIL": "isaacadariku05@gmail.com",
-        "TOTAL POINTS": 18
+        "fullName": "",
+        "userName": "@developerJamiu",
+        "email": "developerjamiu@gmail.com",
+        "totalPoints": 12
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Ufe",
-        "EMAIL": "ufedojoatabo@gmail.com",
-        "TOTAL POINTS": 12
+        "fullName": "",
+        "userName": "@PriscillaA",
+        "email": "baeewele27@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Becca",
-        "EMAIL": "beccasaka@gmail.com",
-        "TOTAL POINTS": 9
+        "fullName": "",
+        "userName": "@Archie",
+        "email": "oluwatstar21@gmail.com",
+        "totalPoints": 9
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@developerJamiu",
-        "EMAIL": "developerjamiu@gmail.com",
-        "TOTAL POINTS": 12
+        "fullName": "",
+        "userName": "@Demilade",
+        "email": "demiladeoladugba@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@PriscillaA",
-        "EMAIL": "baeewele27@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Ogwo",
+        "email": "meabout9@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Archie",
-        "EMAIL": "oluwatstar21@gmail.com",
-        "TOTAL POINTS": 9
+        "fullName": "",
+        "userName": "@Chris",
+        "email": "maduekechris65@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Demilade",
-        "EMAIL": "demiladeoladugba@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Atieno",
+        "email": "jeanadagi@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Ogwo",
-        "EMAIL": "meabout9@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@olumide",
+        "email": "niolumi4eva@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Chris",
-        "EMAIL": "maduekechris65@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@B4_EVA",
+        "email": "tanzebright@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Atieno",
-        "EMAIL": "jeanadagi@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Frieda",
+        "email": "friedarhema@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@olumide",
-        "EMAIL": "niolumi4eva@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Toonie",
+        "email": "aoluwatooni@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@B4_EVA",
-        "EMAIL": "tanzebright@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Rexford",
+        "email": "rexfordasamoah51@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Frieda",
-        "EMAIL": "friedarhema@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Busybee25",
+        "email": "titilayobolamide247@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Toonie",
-        "EMAIL": "aoluwatooni@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Demola",
+        "email": "demolafadumo@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Rexford",
-        "EMAIL": "rexfordasamoah51@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Vasanth",
+        "email": "cheepurupalli.vasaanthkumar@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Busybee25",
-        "EMAIL": "titilayobolamide247@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@kadet",
+        "email": "collynizy@gmail.com",
+        "totalPoints": 10
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Demola",
-        "EMAIL": "demolafadumo@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@akash",
+        "email": "17bcs2419@cuchd.in",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Vasanth",
-        "EMAIL": "cheepurupalli.vasaanthkumar@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@adecancode",
+        "email": "adecancode@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@kadet",
-        "EMAIL": "collynizy@gmail.com",
-        "TOTAL POINTS": 10
+        "fullName": "",
+        "userName": "@Sandy",
+        "email": "goodnewssandy@gmail.com",
+        "totalPoints": 9
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@akash",
-        "EMAIL": "17bcs2419@cuchd.in",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@azmotech",
+        "email": "azmotech@outlook.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@adecancode",
-        "EMAIL": "adecancode@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@karen",
+        "email": "kimsyefe@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Sandy",
-        "EMAIL": "goodnewssandy@gmail.com",
-        "TOTAL POINTS": 9
+        "fullName": "",
+        "userName": "@yemi",
+        "email": "akinyemitiana77@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@azmotech",
-        "EMAIL": "azmotech@outlook.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@sars",
+        "email": "sarscodes@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@GiftTheExplorer",
-        "EMAIL": "gifftchiedozie@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@pythagoras",
+        "email": "pythagoras.dev15@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@karen",
-        "EMAIL": "kimsyefe@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@gidiblack",
+        "email": "gidiblack@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@yemi",
-        "EMAIL": "akinyemitiana77@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@peter",
+        "email": "edeawepeter@yahoo.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@sars",
-        "EMAIL": "sarscodes@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@nueldona",
+        "email": "segunaiyedona@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@pythagoras",
-        "EMAIL": "pythagoras.dev15@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@webdot",
+        "email": "nwaforuchechukwu2007@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@gidiblack",
-        "EMAIL": "gidiblack@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@kelvinBlaze",
+        "email": "ifeanyiko4u@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@peter",
-        "EMAIL": "edeawepeter@yahoo.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@jules",
+        "email": "julesrenaud10@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@nueldona",
-        "EMAIL": "segunaiyedona@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@alphajeez",
+        "email": "chimeremezechukwudire@gmail",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@webdot",
-        "EMAIL": "nwaforuchechukwu2007@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@tobi",
+        "email": "adelakuntobiloba1@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@kelvinBlaze",
-        "EMAIL": "ifeanyiko4u@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@temiloluwa03",
+        "email": "moboluwaji003@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@jules",
-        "EMAIL": "julesrenaud10@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Jethro",
+        "email": "rolandjethrosuyom@yahoo.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@alphajeez",
-        "EMAIL": "chimeremezechukwudire@gmail",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@aminat",
+        "email": "oahmedaminat@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@tobi",
-        "EMAIL": "adelakuntobiloba1@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@ajdelgados",
+        "email": "ajdelgados@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@haneefah",
-        "EMAIL": "aliuhaneefah@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@fizzbuzz",
+        "email": "henry.ezedinma@outlook.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@temiloluwa03",
-        "EMAIL": "moboluwaji003@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@tMan44wiz",
+        "email": "tosolife@yahoo.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Jethro",
-        "EMAIL": "rolandjethrosuyom@yahoo.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Mikah",
+        "email": "melijah200@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@aminat",
-        "EMAIL": "oahmedaminat@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@Jobafash",
+        "email": "jobafash3@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@ajdelgados",
-        "EMAIL": "ajdelgados@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@EmmanuelSeyi",
+        "email": "emmanuelaleke@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@fizzbuzz",
-        "EMAIL": "henry.ezedinma@outlook.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Phil",
+        "email": "owoeyepo@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@tMan44wiz",
-        "EMAIL": "tosolife@yahoo.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Bela",
+        "email": "balikey2010@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Mikah",
-        "EMAIL": "melijah200@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@tkenny",
+        "email": "totoolakenny@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Jobafash",
-        "EMAIL": "jobafash3@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@itunuoluwa",
+        "email": "itunuworks@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@EmmanuelSeyi",
-        "EMAIL": "emmanuelaleke@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@tolufolorunso",
+        "email": "tolufolorunso@yahoo.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Phil",
-        "EMAIL": "owoeyepo@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@light",
+        "email": "onohsomtochukwubasil@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Bela",
-        "EMAIL": "balikey2010@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@Biggaji",
+        "email": "herityjohnny14@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@naza",
-        "EMAIL": "obiekweagnesmary@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@naijauser",
+        "email": "unix1gl@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@tkenny",
-        "EMAIL": "totoolakenny@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@ekpono",
+        "email": "ekponoambrose@gmail.com",
+        "totalPoints": 8
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@itunuoluwa",
-        "EMAIL": "itunuworks@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@pesova",
+        "email": "Pesova13@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@tolufolorunso",
-        "EMAIL": "tolufolorunso@yahoo.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@tokyo",
+        "email": "ganiu.toyeeb.a@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@light",
-        "EMAIL": "onohsomtochukwubasil@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@davon_jagah",
+        "email": "davonkaze1@gmail.com",
+        "totalPoints": 6
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@Biggaji",
-        "EMAIL": "herityjohnny14@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@kofimokome",
+        "email": "kofimokome10@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@naijauser",
-        "EMAIL": "unix1gl@gmail.com",
-        "TOTAL POINTS": 3
+        "fullName": "",
+        "userName": "@rod",
+        "email": "daviddowuona9.dd@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@ekpono",
-        "EMAIL": "ekponoambrose@gmail.com",
-        "TOTAL POINTS": 8
+        "fullName": "",
+        "userName": "@naijabas",
+        "email": "basitibitoye@gmail.com",
+        "totalPoints": 4
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@pesova",
-        "EMAIL": "Pesova13@gmail.com",
-        "TOTAL POINTS": 6
+        "fullName": "",
+        "userName": "@Korlahwarleh90",
+        "email": "jmkolawole@gmail.com",
+        "totalPoints": 3
     },
     {
-        "FULL NAME": "",
-        "USERNAME": "@tokyo",
-        "EMAIL": "ganiu.toyeeb.a@gmail.com",
-        "TOTAL POINTS": 6
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@davon_jagah",
-        "EMAIL": "davonkaze1@gmail.com",
-        "TOTAL POINTS": 6
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@kofimokome",
-        "EMAIL": "kofimokome10@gmail.com",
-        "TOTAL POINTS": 4
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@rod",
-        "EMAIL": "daviddowuona9.dd@gmail.com",
-        "TOTAL POINTS": 4
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@naijabas",
-        "EMAIL": "basitibitoye@gmail.com",
-        "TOTAL POINTS": 4
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@Korlahwarleh90",
-        "EMAIL": "jmkolawole@gmail.com",
-        "TOTAL POINTS": 3
-    },
-    {
-        "FULL NAME": "",
-        "USERNAME": "@jeremiahiro",
-        "EMAIL": "jeremiahiro@gmail.com",
-        "TOTAL POINTS": 4
+        "fullName": "",
+        "userName": "@jeremiahiro",
+        "email": "jeremiahiro@gmail.com",
+        "totalPoints": 4
     }
 ]
